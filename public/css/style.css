@@ -1,0 +1,64 @@
+/*tags*/
+
+body{
+    font-family: "Lato";
+    text-align: center;
+    background-color: rgb(14, 14, 14);
+    color: white
+}
+
+h1{
+    margin-bottom: 80px;
+    font-size: 3rem;
+    color: rgb(1, 158, 158);
+}
+p{
+    margin-top: 5px;
+}
+
+
+
+/*classes*/
+.box{
+    margin: auto;
+    width: fit-content;
+    background-color: rgb(14, 14, 14);
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 0 0 50px rgb(46, 46, 46);
+}
+
+
+.boxdiv{
+    min-height: 50px;
+    height: fit-content;
+    width: 350px;
+    display: block;
+    margin: auto;
+    margin: 15px 25px 15px 25px;
+    border-radius: 5px;
+    border: 0;    
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Lato';
+    font-size: 1rem;
+    background-color: rgb(75, 75, 75);
+    word-wrap: break-word;
+}
+
+.sbmt{
+    display: block;
+    margin: auto;
+    height: 50px;
+    width: 370px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    border: 0;
+    border-radius: 5px;
+    background-color: teal;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Lato';
+    font-size: 1.1rem;
+}
